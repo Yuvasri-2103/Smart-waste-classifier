@@ -1,0 +1,5 @@
+  .venv/
+  __pycache__/
+  data/
+  dataset-resized/
+  outputs/waste_cnn.keras
